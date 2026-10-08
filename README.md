@@ -218,29 +218,6 @@ Durante el grado he trabajado con conceptos y prácticas relacionados con:
 
 ---
 
-# Otros trabajos académicos
-
-<details>
-<summary><strong>Ver más proyectos y prácticas</strong></summary>
-
-<br>
-
-**MINIX / Diseño de Sistemas Operativos**  
-Trabajo con IPC, interrupciones, solicitudes bloqueantes, llamadas al sistema y arquitectura de drivers dentro de un sistema basado en microkernel.
-
-**Procesamiento biométrico de huellas**  
-Procesamiento de imágenes, binarización, filtrado y detección de minucias mediante Crossing Number.
-
-**Estructuras de datos y algoritmos**  
-Desarrollo en C++ utilizando listas, colas, árboles binarios de búsqueda, ficheros CSV y selección de estructuras de datos según el problema.
-
-**Robótica**  
-Repositorio académico organizado por prácticas: [Grupo11Rob](https://github.com/seergiojm23/Grupo11Rob).
-
-</details>
-
----
-
 ## En qué quiero seguir creciendo
 
 Busco una primera oportunidad profesional en la que pueda seguir desarrollándome en áreas como **redes, sistemas, infraestructura, cloud/DevOps y ciberseguridad**, especialmente en entornos donde pueda combinar administración de sistemas, automatización y resolución de problemas técnicos.
